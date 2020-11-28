@@ -39,4 +39,5 @@ print(fav_chats["Santhosh"])
  
 name = True 
 print(name)
- # end of class 6
+
+# end of class 6
