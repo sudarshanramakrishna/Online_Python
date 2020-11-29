@@ -57,8 +57,11 @@ num = "10"
 print((int(num)) * 3)
 
 #if not converted then its gonna the samething 
+
 num = "5"
 print(num * 3) 
 
 num = "BA"
 print(num * 3) 
+ 
+#end of class 10
