@@ -40,10 +40,10 @@ print(names)
 
 nums = [300,200,300]
 names = ["Sudarshan", "Parvathi","Santhosh",nums]
+print(names)
 print(names[3])
 print(names[3][2]) #to get a number from the list nums 
 print(names[3][2] + 100)#can add the numbersto the list value
-print(names)
 
 #when we have a lengthy lists and dont know how many are there in the lists,  we use len()...we also use this to find the last value of the lists
 
